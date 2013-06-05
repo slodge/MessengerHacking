@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessengerHacking.Core", "MessengerHacking.Core\MessengerHacking.Core.csproj", "{553DB175-736B-47E9-AF9E-6BA680CA9861}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessengerHacking.Phone", "MessengerHacking.Phone\MessengerHacking.Phone.csproj", "{3BD1D0E9-DB50-42DF-8F48-7E4A4358BB81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{553DB175-736B-47E9-AF9E-6BA680CA9861}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{553DB175-736B-47E9-AF9E-6BA680CA9861}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{553DB175-736B-47E9-AF9E-6BA680CA9861}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{553DB175-736B-47E9-AF9E-6BA680CA9861}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BD1D0E9-DB50-42DF-8F48-7E4A4358BB81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BD1D0E9-DB50-42DF-8F48-7E4A4358BB81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BD1D0E9-DB50-42DF-8F48-7E4A4358BB81}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{3BD1D0E9-DB50-42DF-8F48-7E4A4358BB81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BD1D0E9-DB50-42DF-8F48-7E4A4358BB81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BD1D0E9-DB50-42DF-8F48-7E4A4358BB81}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
